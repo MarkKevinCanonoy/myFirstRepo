@@ -1,0 +1,2 @@
+# myFirstRepo
+school purposes
